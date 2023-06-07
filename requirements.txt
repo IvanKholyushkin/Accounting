@@ -1,0 +1,2 @@
+people~=0.1.9
+prettytable~=3.7.0
